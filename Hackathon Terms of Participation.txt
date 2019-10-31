@@ -1,0 +1,15 @@
+Hackathon Terms of Participation
+
+1. The RIPE NCC may publish a list of participants on the RIPE NCC website. This list contains the name of the participant, but no contact details or other personal details. Contact details or other information of the participants may only be viewed by other participants.
+
+2. Participants must publish the source code they develop during the hackathon on GitHub under an OSI (Open Source Initiative) approved
+license (GitHub Terms of Service are available here: https://help.github.com/articles/github-terms-of-service/). In case participants do not have a GitHub account, their developed source code will be published by the RIPE NCC under a GPL license.
+
+3. By attending the hackathon, the participant allows the RIPE NCC to use and make publicly available video and/or audio recordings, photographs or presentations of the participant, or any of those in which the participant may be included. The participant should inform the organisation of the hackathon in case they do not want to be included in any of those.
+
+4. In case the participant shares any video and/or audio recordings, photographs or presentations of the hackathon on social media or any other channel, the participant indemnifies the RIPE NCC of all possible or future claims of third parties regarding the content.
+
+5. The participant acknowledges, understands and agrees that the hackathon is attended by people with different experiences, backgrounds and views. It is expected that ideas will be exchanged in a respectful manner, and that everyone involved, including the participant, will demonstrate tolerance and respect to everyone involved with and participating at the hackathon at all times. If the participant fails to act accordingly, the RIPE NCC reserves the right to exclude the participant from the hackathon without thereby being liable to refund any damages.
+
+6. The RIPE NCC excludes all liability for any direct or indirect damages during or due to the hackathon, including damages to the participant, participant’s company, loss of profit, damages to third parties, personal injury or damages to property, except in cases involving wilful misconduct or gross negligence on the part of the RIPE NCC.
+
